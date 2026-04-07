@@ -1624,4 +1624,14 @@ If you found this repository useful please consider citing:
       primaryClass={cs.RO},
       url={https://arxiv.org/abs/2410.15443}, 
 }
+
+@inproceedings{whole_body_planning_mobile_manipulators_lie_optimization_openreview_7ZRclFFHSK,
+  title     = {Whole Body Planning of Mobile Manipulators Leveraging Lie Theory based Optimization},
+  author={William Smith and Siddharth Singh and Julia Rudy and Yuxiang Guan},
+  booktitle = {RSS Workshop on Mobibe Manipulation},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=7ZRclFFHSK},
+  note      = {OpenReview submission (id: 7ZRclFFHSK)}
+}
+
 ```
