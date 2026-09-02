@@ -1,0 +1,3 @@
+slithers_controller:
+  ros__parameters:
+    joint_state_topic: /joint_states
